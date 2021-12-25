@@ -1,0 +1,43 @@
+body {
+    background-color:#ffccd5 ;
+}
+hr {
+    
+    width: 10%;
+    height: 5px;
+    border-style: dotted;
+    border-top-width: 8px;
+    border-right-style: none;
+    border-left-style: none;
+    border-bottom-style: none;
+    border-top-color: rgb(235, 228, 232);
+    
+}
+/* h3 {
+    /* color:#ff4d6d; */
+    /* font-style: italic;
+    
+} */ 
+p {
+    font-style: italic;
+}
+
+/*******Class Selectors*********/
+.profile {
+    background-color: white;
+}
+/*******id Selectors*********/
+#name {
+    color:#ff4d6d;
+    font-style:italic;
+}
+#languages{
+    color:#ff4d6d;
+    font-style:italic;
+    text-align: left;
+    
+}
+#intrests{
+    color:#ff4d6d;
+    font-style:italic
+}
